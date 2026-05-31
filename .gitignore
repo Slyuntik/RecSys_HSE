@@ -1,5 +1,6 @@
 .ipynb_checkpoints/
 *.csv
+data/
 dataset/
 datamart/
 output/
